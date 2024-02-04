@@ -6,12 +6,13 @@ import { PiUserFocus } from "react-icons/pi";
 
 function Benefits() {
   return (
-    <div id="Benefits" className="h-screen w-full flex flex-col items-center p-10">
+    <div id="Benefits" className="min-h-screen w-full flex flex-col items-center p-10">
         <div className="benefitsFlag px-3 bg-gradient-to-r from-cyan to-neonBlue text-white mt-2 rounded-xl flex border items-center">
           <FaRegLightbulb />
           Benefícios
         </div>
         <h2 className="text-3xl font-semibold p-2">A praticidade e modernidade que só a IA pode te trazer</h2>
+        <p className="text-lightGray">Alguns motivos pelos quais você deve optar por este serviço.</p>
         <div className="benefitsGridContainer py-4 px-32 grid grid-cols-3 grid-rows-2 gap-2">
           <div className="flex flex-col bg-aliceBlue rounded items-center px-5 py-12">
             <div className="icon w-8 h-8 mb-2 bg-neonBlue text-white text-center flex items-center justify-center p-2 text-lg rounded">
