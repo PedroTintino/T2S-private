@@ -14,8 +14,9 @@ function Process() {
         Entenda nosso processo de aplicação e nossos métodos.
       </span>
       <div className="p-5">
-      <img src="/visualchart.jpg" alt="Plano de aplicação" width={850} height={700} className="rounded-lg"/>
+      <img src="/visualchart.jpg" alt="Plano de aplicação" width={850} height={600} className="rounded-lg"/>
       </div>
+      <p className="text-center text-lightGray py-5 px-12 font-semibold text-xl">Descubra as oportunidades que podem transformar o seu negócio! Ao chegar até aqui, você já conheceu nossa proposta e como podemos agregar valor ao seu dia a dia. Agora, queremos conhecer mais sobre as suas necessidades e desafios específicos.</p>
     </div>
   );
 }

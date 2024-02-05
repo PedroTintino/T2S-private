@@ -4,6 +4,7 @@ import Benefits from "./components/Benefits"
 import OurClients from "./components/OurClients"
 import Process from "./components/Process"
 import Footer from "./components/Footer"
+import Form from "./components/Form"
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Benefits />
       <OurClients /> 
       <Process />
+      <Form />
       <Footer />
     </div>
   )

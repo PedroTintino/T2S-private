@@ -11,9 +11,9 @@ function Benefits() {
           <FaRegLightbulb />
           Benefícios
         </div>
-        <h2 className="text-3xl font-semibold p-2">A praticidade e modernidade que só a IA pode te trazer</h2>
-        <p className="text-lightGray">Alguns motivos pelos quais você deve optar por este serviço.</p>
-        <div className="benefitsGridContainer py-4 px-32 grid grid-cols-3 grid-rows-2 gap-2">
+        <h2 className="text-3xl text-center font-semibold p-2">A praticidade e modernidade que só a IA pode te trazer</h2>
+        <p className="text-lightGray text-center">Alguns motivos pelos quais você deve optar por este serviço.</p>
+        <div className="benefitsGridContainer py-4 px-10 grid md:grid-cols-3 grid-rows-2 gap-2 px-32">
           <div className="flex flex-col bg-aliceBlue rounded items-center px-5 py-12">
             <div className="icon w-8 h-8 mb-2 bg-neonBlue text-white text-center flex items-center justify-center p-2 text-lg rounded">
               <FaBrain />
