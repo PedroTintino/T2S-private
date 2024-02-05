@@ -2,6 +2,7 @@
   import Logo from '../assets/logotipo.png'
   import { useState, useEffect } from "react";
   import ContactModal from "./ContactModal"
+  import {slide as Menu} from 'react-burger-menu';
 
   function Navbar(){
       const [isTop, setIsTop] = useState(true);
@@ -22,6 +23,52 @@
         };
       }, []);
 
+      var styles = {
+        bmBurgerButton: {
+          position: 'fixed',
+          width: '36px',
+          height: '30px',
+          right: '36px',
+          top: '22px'
+        },
+        bmBurgerBars: {
+          background: '#ffffff'
+        },
+        bmBurgerBarsHover: {
+          background: '#a90000'
+        },
+        bmCrossButton: {
+          height: '24px',
+          width: '24px'
+        },
+        bmCross: {
+          background: '#bdc3c7'
+        },
+        bmMenuWrap: {
+          position: 'absolute',
+          right: '0',
+          top: '0',
+          height: '100vh'
+        },
+        bmMenu: {
+          background: '#373a47',
+          padding: '2.5em 1.5em 0',
+          fontSize: '1.15em'
+        },
+        bmMorphShape: {
+          fill: '#373a47'
+        },
+        bmItemList: {
+          color: '#b8b7ad',
+          padding: '0.8em'
+        },
+        bmItem: {
+          display: 'inline-block'
+        },
+        bmOverlay: {
+          background: 'rgba(0, 0, 0, 0.3)'
+        }
+      }
       return(
       <>
         <ContactModal showModal={showModal} setShowModal={setShowModal} />
@@ -34,11 +81,14 @@
                       <CiSearch className="text-2xl" />
                   </div>
               </div>
-              <div className="linksSection flex gap-3">
-              <span className="cursor-pointer hover:border-b border-cyan">O que fazemos</span>
-              <span className="cursor-pointer hover:border-b border-cyan">Quem somos</span>
-              <span className="cursor-pointer text-cyan hover:border-b border-white" onClick={() => setShowModal(true)}>Contato</span>
-              </div>
+              {/* <div className="linksSection flex md:gap-3"> */}
+              <Menu styles={ styles }>
+                <span className="menu-item cursor-pointer hover:border-b border-cyan">O que fazemos</span>
+                <span className="menu-item cursor-pointer hover:border-b border-cyan">Quem somos</span>
+                <br />
+                <span className="menu-item cursor-pointer text-cyan hover:border-b border-white" onClick={() => setShowModal(true)}>Contato</span>
+              </Menu>
+              {/* </div> */}
           </nav>
         </>
       )
