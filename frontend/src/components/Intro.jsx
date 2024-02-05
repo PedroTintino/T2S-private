@@ -14,7 +14,7 @@ function Intro() {
 
       {/* <div className="w-[45%] absolute right-[26%] top-24 border-t-2  border-white"></div> */}
       <div class="absolute inset-0 flex flex-col items-center justify-center">
-        <h1 class="text-5xl text-white font-bold border-t-2 pt-20">Nossos Serviços:</h1>
+        <h1 class="text-5xl text-white font-bold border-t-2 p-15 md:pt-20">Nossos Serviços:</h1>
         <p class="text-3xl text-white mt-4">
         <Typewriter
           options={{
