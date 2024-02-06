@@ -5,7 +5,7 @@
   <li>
     <h2>Read More Button</h2>
     <p>First things first, you can easily scroll-down to our content using this button.</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="380" height="220">
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="350" height="180">
   </li>
   <li>
     <h2>Hamburger Menu</h2>
@@ -15,7 +15,12 @@
   <li>
     <h2>Our Clients Slider</h2>
     <p>You're able to see our clients draggin' it to side</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/clientes-slider.png" alt="slider example" width="280" height="280">
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/clientes-slider.png" alt="slider example"  width="350" height="180">
+  </li>
+  <li>
+    <h2>Leads Form</h2>
+    <p>Our contact form</p>
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/form.png" alt="slider example"  width="350" height="180">
   </li>
 </ol>
 <h3>Enjoy it!</h3>
