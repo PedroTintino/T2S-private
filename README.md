@@ -5,7 +5,7 @@
   <li>
     <h2>Read More Button</h2>
     <p>First things first, you can easily scroll-down to our content using this button.</p>
-    <img src="https://github.com/PedroTintino/GastronomIA/blob/main/gastronomia-gif.gif" alt="An usage preview" width="380" height="220">
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="380" height="220">
   </li>
   <li>
     <h2>Hamburger Menu</h2>
