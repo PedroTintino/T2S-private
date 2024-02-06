@@ -10,6 +10,8 @@
     <pre class="language-bash">
       $ git clone https://github.com/PedroTintino/T2S-private
       <br>
+      $ cd T2S-private
+      <br>
       $ cd frontend
     <pre>
   </li>
