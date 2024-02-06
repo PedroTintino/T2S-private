@@ -75,7 +75,7 @@
         
           <nav className={`w-full p-4 fixed z-10 flex justify-between items-center text-white ${isTop ? 'bg-transparent' : 'bg-black'}`}>
               <img src={Logo} alt="Logotipo da empresa" width={120} height={80} />
-              <div className="searchSection flex-grow">
+              <div className="searchSection flex-grow mr-12 max-sm:hidden">
                   <div className="p-2 max-w-[30rem] my-0 ml-64 mr-6 border-white border rounded-lg flex justify-between">
                       <span className="text-lightGray">Pesquisar no site</span>
                       <CiSearch className="text-2xl" />
