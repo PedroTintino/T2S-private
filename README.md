@@ -1,6 +1,6 @@
 <div class="languageVersion" style="display: flex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" widht="100px" height="100px" alt="uk flag"/>
-  <span>English Version</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" widht="70px" height="50px" alt="uk flag"/>
+  <h1>English Version</h1>
 </div>
 <h2>T2S Services: AI and Machine Learning: The Guide</h1> 
 <h3>Installation Guide (for studies)</h1>
