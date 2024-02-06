@@ -41,17 +41,17 @@
   <li>
     <h2>Hamburger Menu</h2>
     <p>Once you're using it from a mobile device this menu will be displayed.</p> 
-     <img src="https://github.com/PedroTintino/T2S-private/blob/main/menu.png" alt="Menu example" width="350" height="180">
+     <img src="frontend/public/menu.png" alt="Menu example" width="350" height="180">
   </li>
   <li>
     <h2>Our Clients Slider</h2>
     <p>You're able to see our clients draggin' it to side</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/clientes-slider.png" alt="slider example"  width="350" height="180">
+    <img src="frontend/public/clientes-slider.png" alt="slider example"  width="350" height="180">
   </li>
   <li>
     <h2>Leads Form</h2>
     <p>Our contact form</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/form.png" alt="slider example"  width="350" height="180">
+    <img src="frontend/public/form.png" alt="slider example"  width="350" height="180">
   </li>
 </ol>
 <h2>If you having any trouble running it, please contact me at https://www.linkedin.com/in/pedro-vieira-0b59a01b1/</h2>
