@@ -1,42 +1,30 @@
 <h1>T2S Services: AI and Machine Learning: The Guide</h1> 
-<h1>GastronomIA: Installation Guide (for studies)</h1>
+<h1>Installation Guide (for studies)</h1>
 <ul>
   <li>
-    <p>Clone and acess the front/backend folders separately:</p>
+    <p>Clone and acess the frontend folder separately:</p>
     <pre class="language-bash">
-      $ git clone https://github.com/PedroTintino/GastronomIA
-      <br>
-      $ cd backend
+      $ git clone https://github.com/PedroTintino/T2S-private
       <br>
       $ cd frontend
     <pre>
   </li>
   <li>
-    <p>For each folder install the dependecies (use --force if you have any trouble):</p>
+    <p>Install the dependecies inside this folder (use --force if you have any trouble):</p>
     <pre class="language-bash">
       npm install
     </pre>
   </li>
   <li>
-    <p>Create a .env file and create your SECRET, OPENAI_API_KEY and MongoDB connection string: </p>
-    <p><strong>Note:</strong> You can get an openai key at https://openai.com/blog/openai-api. The SECRET can be created by yourself typing a sequence.</p>
-  </li>
-  <li>
     <h2>Usage</h2>
     <p>Once you have sucefully created/installed your dependencies, you'll be able to run it using the follow commands:</p>
-    <pre class="language-bash">
-      //For your server-side (backend)
-      $ npm start
-    </pre>
-    <p>And</p>
     <pre class="language-bash">
       //For your client-side (frontend)
       $ npm run dev
     </pre>
   </li>
 </ul>
-<h2>If you having any trouble running it, please contact me at https://www.linkedin.com/in/pedro-vieira-0b59a01b1/</h2>
-<p>Let's discover how to use our software properly, aiming a better user experience.</p>
+<p>Now let's discover how to use our software properly, aiming a better user experience.</p>
 <h2>Interactive Spots</h2>
 <ol>
   <li>
@@ -60,4 +48,6 @@
     <img src="https://github.com/PedroTintino/T2S-private/blob/main/form.png" alt="slider example"  width="350" height="180">
   </li>
 </ol>
+<h2>If you having any trouble running it, please contact me at https://www.linkedin.com/in/pedro-vieira-0b59a01b1/</h2>
 <h3>Enjoy it!</h3>
+
