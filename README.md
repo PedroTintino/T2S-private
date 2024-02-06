@@ -1,29 +1,4 @@
 <h1>T2S Services: AI and Machine Learning: The Guide</h1> 
-<p>Let's discover how to use our software properly, aiming a better user experience.</p>
-<h2>Interactive Spots</h2>
-<ol>
-  <li>
-    <h2>Read More Button</h2>
-    <p>First things first, you can easily scroll-down to our content using this button.</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="350" height="180">
-  </li>
-  <li>
-    <h2>Hamburger Menu</h2>
-    <p>Once you're using it from a mobile device this menu will be displayed.</p> 
-     <img src="https://github.com/PedroTintino/T2S-private/blob/main/menu.png" alt="Menu example" width="350" height="180">
-  </li>
-  <li>
-    <h2>Our Clients Slider</h2>
-    <p>You're able to see our clients draggin' it to side</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/clientes-slider.png" alt="slider example"  width="350" height="180">
-  </li>
-  <li>
-    <h2>Leads Form</h2>
-    <p>Our contact form</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/form.png" alt="slider example"  width="350" height="180">
-  </li>
-</ol>
-<h3>Enjoy it!</h3>
 <h1>GastronomIA: Installation Guide (for studies)</h1>
 <ul>
   <li>
@@ -61,3 +36,28 @@
   </li>
 </ul>
 <h2>If you having any trouble running it, please contact me at https://www.linkedin.com/in/pedro-vieira-0b59a01b1/</h2>
+<p>Let's discover how to use our software properly, aiming a better user experience.</p>
+<h2>Interactive Spots</h2>
+<ol>
+  <li>
+    <h2>Read More Button</h2>
+    <p>First things first, you can easily scroll-down to our content using this button.</p>
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="350" height="180">
+  </li>
+  <li>
+    <h2>Hamburger Menu</h2>
+    <p>Once you're using it from a mobile device this menu will be displayed.</p> 
+     <img src="https://github.com/PedroTintino/T2S-private/blob/main/menu.png" alt="Menu example" width="350" height="180">
+  </li>
+  <li>
+    <h2>Our Clients Slider</h2>
+    <p>You're able to see our clients draggin' it to side</p>
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/clientes-slider.png" alt="slider example"  width="350" height="180">
+  </li>
+  <li>
+    <h2>Leads Form</h2>
+    <p>Our contact form</p>
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/form.png" alt="slider example"  width="350" height="180">
+  </li>
+</ol>
+<h3>Enjoy it!</h3>
