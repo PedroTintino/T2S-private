@@ -1,5 +1,5 @@
 <div class="languageVersion" style="display: flex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png"  alt="uk flag"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" widht="300px" height="300px" alt="uk flag"/>
 </div>
 <h2>T2S Services: AI and Machine Learning: The Guide</h1> 
 <h3>Installation Guide (for studies)</h1>
