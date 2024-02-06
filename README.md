@@ -34,7 +34,7 @@
   <li>
     <h2>Read More Button</h2>
     <p>First things first, you can easily scroll-down to our content using this button.</p>
-    <img src="https://github.com/PedroTintino/T2S-private/blob/main/button.png" alt="An usage preview" width="350" height="180">
+    <img src="https://github.com/PedroTintino/T2S-private/blob/main/public/button.png" alt="An usage preview" width="350" height="180">
   </li>
   <li>
     <h2>Hamburger Menu</h2>
